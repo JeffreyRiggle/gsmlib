@@ -3,7 +3,7 @@ gsmlib or game state manager lib is a simple library that allows for the managme
 
 ## Getting Started
 ### Prerequisites
-Java 8 SDK should be installed on your local machine.
+Java 11 SDK should be installed on your local machine.
 Maven should be installed on your local machine.
 
 ## Building

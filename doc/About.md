@@ -1,0 +1,2 @@
+# About
+GameStateManager is an API for managing game states. This API provides a simple way to define game states and transition between those game states. This API also provides a way to buffer game states so that they can be loaded at a later point in time.
