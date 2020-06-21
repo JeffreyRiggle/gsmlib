@@ -22,7 +22,7 @@
   	<repository>
   		<id>github</id>
   		<name>Jeffrey Riggle Apache Maven Packages</name>
-  		<url>https://maven.pkg.github.com/JeffreyRiggle/java-gsmlib</url>
+  		<url>https://maven.pkg.github.com/JeffreyRiggle/gsmlib</url>
   	</repository>
   </distributionManagement>
   <build>
