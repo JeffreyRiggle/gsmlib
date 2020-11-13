@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ilusr</groupId>
   <artifactId>gsmlib</artifactId>
-  <version>2.0.12</version>
+  <version>2.0.13</version>
   <name>GSMLib</name>
   <description>Library to manage game states.</description>
   <dependencies>
